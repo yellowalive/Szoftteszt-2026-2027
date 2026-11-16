@@ -1,0 +1,7 @@
+C:\Users\juhaszbarbara\source\repos\RepteriCsomag\RepteriCsomag\bin\Debug\RepteriCsomag.exe.config
+C:\Users\juhaszbarbara\source\repos\RepteriCsomag\RepteriCsomag\bin\Debug\RepteriCsomag.exe
+C:\Users\juhaszbarbara\source\repos\RepteriCsomag\RepteriCsomag\bin\Debug\RepteriCsomag.pdb
+C:\Users\juhaszbarbara\source\repos\RepteriCsomag\RepteriCsomag\obj\Debug\RepteriCsomag.csproj.AssemblyReference.cache
+C:\Users\juhaszbarbara\source\repos\RepteriCsomag\RepteriCsomag\obj\Debug\RepteriCsomag.csproj.CoreCompileInputs.cache
+C:\Users\juhaszbarbara\source\repos\RepteriCsomag\RepteriCsomag\obj\Debug\RepteriCsomag.exe
+C:\Users\juhaszbarbara\source\repos\RepteriCsomag\RepteriCsomag\obj\Debug\RepteriCsomag.pdb
